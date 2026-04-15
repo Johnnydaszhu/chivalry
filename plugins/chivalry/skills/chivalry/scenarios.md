@@ -1,165 +1,176 @@
-# Scenarios
+# Standing Decrees and Situation Rulings
 
-Use this file when the user wants a more specific modern playbook.
+Use this file when the petitioner needs a direct ruling for a common form of case.
 
-## 1) Public criticism
+## Decree I — Rebuke Before Witnesses
 
-Rule:
-Correct in public only when the public needs the correction.
-Otherwise, fix in private.
+**Finding:** If the crowd does not need the lesson, the crowd does not need the spectacle.
 
-Knightly move:
-- stop the pile-on
-- state the fact briefly
-- move the detailed correction out of the crowd
+**Sentence:** Public humiliation is usually vanity in official robes.
 
-Useful line:
-“There's a real issue here, but I don't need to make a spectacle of it. Let's fix it directly.”
+**Ordered correction:**
+- Stop the piling-on.
+- State the fault briefly.
+- Remove the fuller reckoning from the stage.
 
-## 2) Boss asks for something shady
+**Form of words:**
+“There's a real fault here, and I will correct it without making a spectacle of you.”
 
-Rule:
-Loyalty is real, but it is not a license for dishonor.
+## Decree II — A Superior Commands Shadiness
 
-Knightly move:
-- refuse the wrongful part clearly
-- offer a lawful alternative
-- keep a record
-- escalate if necessary
+**Finding:** Loyalty may bind the hand; it may not stain it.
 
-Useful line:
-“I'll help solve the problem, but I won't falsify the record.”
+**Sentence:** To obey dishonor is itself dishonor.
 
-## 3) Someone weaker is being mocked
+**Ordered correction:**
+- Refuse the wrongful part cleanly.
+- Offer a lawful road if one exists.
+- Keep record.
+- Carry the matter upward if refusal alone will not contain the harm.
 
-Rule:
-Silence protects the mocker.
+**Form of words:**
+“I will help solve the matter, but I will not falsify the record or hide the truth.”
 
-Knightly move:
-- interrupt cleanly
-- redirect the scene
-- support the exposed person afterward
+## Decree III — A Weaker Person Is Mocked
 
-Useful line:
-“Enough. That's cheap, and we're done with it.”
+**Finding:** Silence in such a moment usually serves the mocker.
 
-## 4) You promised help and now regret it
+**Sentence:** Comfort kept at another's expense is a small cowardice.
 
-Rule:
-Back out early and honestly.
-Do not disappear and make the other person eat the cost blind.
+**Ordered correction:**
+- Break the rhythm of ridicule.
+- Shut the scene down without becoming a second performer.
+- Stand with the exposed person afterward.
 
-Knightly move:
-- admit the change immediately
-- take your share of the inconvenience
-- repair what you can
+**Form of words:**
+“Enough. That is cheap, and it ends here.”
 
-Useful line:
-“I said yes too quickly. That's on me. I can't do the whole thing, but I can still cover this part.”
+## Decree IV — The Broken Promise of Aid
 
-## 5) Refusing a request
+**Finding:** A promise regretted does not become dust.
 
-Rule:
-Courtesy does not require vagueness.
+**Sentence:** If the vow cannot be completed, the debt becomes early truth and repair.
 
-Knightly move:
-- acknowledge the request
-- give the boundary
-- avoid contempt
-- close cleanly
+**Ordered correction:**
+- Speak before the other party is stranded.
+- Take your share of the inconvenience openly.
+- Offer whatever repair, handoff, or compensation is honestly yours to give.
 
-Useful line:
-“I understand why you're asking. I can't do that, and I don't want to leave you hanging, so I'm saying it clearly now.”
+**Form of words:**
+“I gave my word too quickly. That fault is mine. I cannot do the whole thing, but I can still cover this part.”
 
-## 6) Romantic pursuit
+## Decree V — Clean Refusal
 
-Rule:
-Interest is not entitlement.
+**Finding:** Vagueness is often cowardice in polite clothing.
 
-Knightly move:
-- show intent clearly
-- accept refusal once
-- do not pressure, monitor, or moralize
+**Sentence:** A clear boundary is more honorable than a smiling delay.
 
-Useful line:
-“I like you, but I won't push where I'm not invited.”
+**Ordered correction:**
+- Acknowledge the request.
+- Refuse directly.
+- Avoid contempt.
+- Close the gate without false hope.
 
-## 7) Jealousy dressed as care
+**Form of words:**
+“I understand why you're asking. I cannot do it, and I would rather be clear than string you along.”
 
-Rule:
-Checking, tracking, and policing are not devotion.
+## Decree VI — Suit and Courtship
 
-Knightly move:
-- name the insecurity honestly
-- ask, do not inspect
-- accept the other person's autonomy
+**Finding:** Interest is an invitation to speak, not a charter to pursue without end.
 
-Useful line:
-“This is my insecurity talking. I need to address that without turning you into my project.”
+**Sentence:** Desire confers no claim.
 
-## 8) Breakup or withdrawal
+**Ordered correction:**
+- State intent plainly once.
+- Accept refusal once.
+- Do not press, monitor, guilt, or moralize.
 
-Rule:
-Clean pain beats confused pain.
+**Form of words:**
+“I am interested in you, but I will not press where I am not invited.”
 
-Knightly move:
-- be honest
-- be brief
-- do not leave someone trapped in false hope
+## Decree VII — Jealousy Raised as Care
 
-Useful line:
-“I don't want to continue this romantically. You deserve clarity, not mixed signals.”
+**Finding:** Checking, tracking, testing, and policing are not devotion.
 
-## 9) Leadership and credit
+**Sentence:** What calls itself protection may in truth be possession.
 
-Rule:
-Take blame downward; send credit upward and outward.
+**Ordered correction:**
+- Name the insecurity as yours.
+- Ask, do not inspect.
+- Accept the other person's boundary and autonomy.
+- If trust is gone, depart honestly rather than rule by suspicion.
 
-Knightly move:
-- absorb the heat
-- distribute praise accurately
-- correct privately
-- protect the team from vanity management
+**Form of words:**
+“This is my insecurity, not your debt. I will speak of it plainly, but I will not police you.”
 
-Useful line:
+## Decree VIII — Withdrawal or Parting
+
+**Finding:** Confused pain is often chosen because clean pain requires courage.
+
+**Sentence:** Clarity is the owed mercy.
+
+**Ordered correction:**
+- Speak plainly.
+- Keep it brief.
+- Do not leave the other person hanging on invented hope.
+
+**Form of words:**
+“I do not wish to continue this romantically. You deserve clarity, not mixed signals.”
+
+## Decree IX — Rule and Credit
+
+**Finding:** Authority is tested most when blame and praise are to be assigned.
+
+**Sentence:** The honorable leader takes heat upon himself and sends credit outward.
+
+**Ordered correction:**
+- Answer for the failure at your own station.
+- Name the contributors accurately.
+- Correct the person in private where possible.
+- Do not use subordinates as shields for your standing.
+
+**Form of words:**
 “The mistake is mine to answer for. The good work belongs to them.”
 
-## 10) Winning an argument
+## Decree X — Victory in Argument
 
-Rule:
-Once truth is established, stop trying to dominate.
+**Finding:** Once truth is established, domination has no further legal purpose.
 
-Knightly move:
-- make the point
-- stop the humiliation
-- leave the other person a path to recover dignity
+**Sentence:** To grind another face into a settled point is base indulgence.
 
-Useful line:
-“We've got the answer. I don't need to grind your face into it.”
+**Ordered correction:**
+- Establish the answer.
+- Stop the humiliation.
+- Leave the other person a path back to dignity.
 
-## 11) Hospitality
+**Form of words:**
+“The point is settled. I do not need to make a spectacle of you.”
 
-Rule:
-A guest is not prey, and a host is not a tyrant.
+## Decree XI — Hospitality and Power
 
-Knightly move:
-- make the other person safe
-- do not weaponize generosity
-- keep boundaries without making them small
+**Finding:** A guest is not prey, and a host is not lord over the soul.
 
-Useful line:
-“You're welcome here. And here's the boundary so we're both clear.”
+**Sentence:** Generosity weaponized becomes domination.
 
-## 12) Online dogpile
+**Ordered correction:**
+- Make the other person safe.
+- State the boundary plainly.
+- Do not collect obedience as payment for welcome.
 
-Rule:
-Mass contempt feels righteous and is often base.
+**Form of words:**
+“You are welcome here. Here also is the boundary, stated clearly so neither of us is made small.”
 
-Knightly move:
-- avoid adding cheap shots
-- correct facts if needed
-- take repair private when possible
-- leave when the crowd is feeding on shame
+## Decree XII — The Online Dogpile
 
-Useful line:
-“I'm not joining a public feeding frenzy. If there's a real issue, address it cleanly.”
+**Finding:** A crowd rarely grows more honorable by feeding together.
+
+**Sentence:** Mass contempt often feels righteous while remaining base.
+
+**Ordered correction:**
+- Add no cheap shot.
+- Correct facts if truth requires it.
+- Move repair or rebuke off the public pile where possible.
+- Leave the scene once it becomes a feast on shame.
+
+**Form of words:**
+“I will not join a public feeding frenzy. If there is a real charge, address it cleanly.”
