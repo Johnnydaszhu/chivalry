@@ -1,0 +1,14 @@
+{
+  "name": "chivalry-tools",
+  "owner": {
+    "name": "Johnnydaszhu"
+  },
+  "plugins": [
+    {
+      "name": "chivalry",
+      "source": "./plugins/chivalry",
+      "description": "A chivalry skill for honor, courage, mercy, courtesy, restraint, and the next dignified move.",
+      "version": "0.2.0"
+    }
+  ]
+}

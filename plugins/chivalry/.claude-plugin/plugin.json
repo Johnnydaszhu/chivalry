@@ -1,0 +1,5 @@
+{
+  "name": "chivalry",
+  "description": "A chivalry skill for judging whether an action is knightly, unknightly, base, or craven—and what the more honorable move is.",
+  "version": "0.2.0"
+}
