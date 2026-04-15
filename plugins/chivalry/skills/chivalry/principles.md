@@ -43,7 +43,7 @@ The chain is base, no matter how tenderly named.
 
 Honor despises the hidden hook.
 A fair act may still wound, refuse, expose, or discipline; but it does so plainly.
-Whenever image is preserved by deception, leverage, staged innocence, or half-confession, honor has already withdrawn its banner.
+Whenever image is preserved by deception, coercion, staged innocence, or half-confession, honor has already withdrawn its banner.
 
 ### Article VII — Of Measure
 

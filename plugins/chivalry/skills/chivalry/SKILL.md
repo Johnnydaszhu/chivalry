@@ -155,7 +155,7 @@ Marks of accord:
 - refusal of cheap advantage
 
 Marks of breach:
-- half-truths, secret leverage, image laundering
+- half-truths, secret coercion, image laundering
 - lying to preserve standing
 - using private trust as public weapon
 - gaming the rules while pretending purity
