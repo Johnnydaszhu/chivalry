@@ -223,16 +223,18 @@ Without that edge, the whole thing dies.
 
 ## Codex art assets
 
-Stable relative paths reserved for future README composition:
+Stable relative paths used by the README and the asset set:
 
-- [`assets/hero-chivalry.png`](assets/hero-chivalry.png)
-- [`assets/seven-tests.svg`](assets/seven-tests.svg)
-- [`assets/compatibility-map.svg`](assets/compatibility-map.svg)
+- [`assets/hero-chivalry.png`](assets/hero-chivalry.png) — deferred frontispiece path; the current PNG is an explicit holding card so the link stays stable until the final hero art is generated from the prompt below.
+- [`assets/seven-tests.svg`](assets/seven-tests.svg) — final 七重试炼 / iron-law structure diagram.
+- [`assets/compatibility-map.svg`](assets/compatibility-map.svg) — final codex arrival map for Claude Code, Cursor, and Codex.
 
 <details>
 <summary>Reusable prompt for <code>assets/hero-chivalry.png</code></summary>
 
 Create a solemn frontispiece for **Chivalry / 骑士精神** as a public **Iron Law Codex**, not a developer tool landing page, not a fantasy game UI, and not a glossy SaaS illustration. Show a single law-bearer or knight-scribe before an opened codex bound in black iron and worn parchment. Surround the scene with forged iron framing, austere heraldic sigils, wax seals, vellum grain, soot, and restrained old-gold ornament. Light the image only with candlelight and a distant brazier so the atmosphere feels cold, doctrinal, ceremonial, and absolute rather than adventurous. Palette: black, iron gray, old gold, parchment white, ember amber. Composition: wide hero image for a GitHub README, strong central codex, generous negative space for title treatment, cinematic but severe. Avoid neon, bright magic, smiling mascots, game HUD elements, cartoon rendering, or modern product-illustration tropes.
+
+Use that prompt to generate the final frontispiece into `assets/hero-chivalry.png`. Until then, treat the current file only as a reserved path marker, not as finished art.
 
 </details>
 
