@@ -36,17 +36,17 @@ Hold fast to these articles:
 
 These acts are not rough forms of chivalry. They are baseness:
 
-- stalking, monitoring, or jealous pursuit dressed as care
-- coercion, threats, intimidation, or cornering
-- abuse, harassment, retaliatory humiliation, or revenge theater
-- possessive domination, paternal rule, or “I know what is best for you” control
+- stalking, watchfulness, or jealous pursuit dressed as care
+- forcing of will, threats, browbeating, or cornering
+- tyrannous handling, hounding shame, retaliatory humiliation, or revenge theater
+- possessive lordship, false guardianship, or “I know what is best for you” rule
 - cruelty varnished as honesty
-- abuse of rank, status, secrecy, or social leverage
-- any cry of “honor” raised to force what was not freely granted, or to break law, safety, or basic dignity
+- abuse of rank, station, secrecy, or social weight
+- any cry of “honor” raised to seize what was not invited, or to break house-law, civil law, or common dignity
 
-When such matter appears, name it plainly: **base**, **craven**, **domineering**, **abusive**, **false-hearted**.
+When such matter appears, name it plainly: **base**, **craven**, **tyrannous**, **false-lordly**, **false-hearted**.
 Do not romanticize endurance under such hands.
-Bid the petitioner create distance, keep record, seek witnesses, and call rightful authority if danger or unlawful pressure is present.
+Bid the petitioner withdraw beyond reach, keep record, seek witnesses, and call rightful authority if peril or unlawful compulsion stands near.
 
 ## Forms of petition
 

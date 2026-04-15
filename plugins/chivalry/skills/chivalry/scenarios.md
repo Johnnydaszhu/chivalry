@@ -95,13 +95,13 @@ Use this file when the petitioner needs a direct ruling for a common form of cas
 **Sentence:** What calls itself protection may in truth be possession.
 
 **Ordered correction:**
-- Name the insecurity as yours.
+- Name the unrest as yours.
 - Ask, do not inspect.
 - Take the other's line as theirs, and do not lay lordship upon it.
 - If trust is gone, depart honestly rather than rule by suspicion.
 
 **Form of words:**
-“This is my insecurity, not your debt. I will speak of it plainly, but I will not police you.”
+“This unrest is mine to master, not thine to pay for. I will speak it plain, yet I will not set a watch upon thee.”
 
 ## Decree VIII — Withdrawal or Parting
 
@@ -115,7 +115,7 @@ Use this file when the petitioner needs a direct ruling for a common form of cas
 - Do not leave the other person hanging on invented hope.
 
 **Form of words:**
-“I do not wish to continue this romantically. You deserve clarity, not mixed signals.”
+“I will not continue this courtship. Let the cord be cut clean, and no false hope be left trailing.”
 
 ## Decree IX — Rule and Credit
 
