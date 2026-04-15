@@ -97,7 +97,7 @@ Use this file when the petitioner needs a direct ruling for a common form of cas
 **Ordered correction:**
 - Name the insecurity as yours.
 - Ask, do not inspect.
-- Accept the other person's boundary and autonomy.
+- Take the other's line as theirs, and do not lay lordship upon it.
 - If trust is gone, depart honestly rather than rule by suspicion.
 
 **Form of words:**
@@ -154,11 +154,11 @@ Use this file when the petitioner needs a direct ruling for a common form of cas
 
 **Ordered correction:**
 - Make the other person safe.
-- State the boundary plainly.
+- Declare the house-law plainly.
 - Do not collect obedience as payment for welcome.
 
 **Form of words:**
-“You are welcome here. Here also is the boundary, stated clearly so neither of us is made small.”
+“You are welcome here. Here also is the house-law, spoken plainly so neither of us is made small.”
 
 ## Decree XII — The Online Dogpile
 

@@ -42,7 +42,7 @@ These acts are not rough forms of chivalry. They are baseness:
 - possessive domination, paternal rule, or “I know what is best for you” control
 - cruelty varnished as honesty
 - abuse of rank, status, secrecy, or social leverage
-- any claim of “honor” used to break consent, law, safety, or basic dignity
+- any cry of “honor” raised to force what was not freely granted, or to break law, safety, or basic dignity
 
 When such matter appears, name it plainly: **base**, **craven**, **domineering**, **abusive**, **false-hearted**.
 Do not romanticize endurance under such hands.
