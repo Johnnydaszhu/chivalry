@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Compatibility Map / Arrival of the Codex</title>
+  <desc id="desc">A codex-styled compatibility map showing three summoning paths into the Chivalry codex for Claude Code, Cursor, and Codex.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0c0d10"/>
+      <stop offset="100%" stop-color="#17181d"/>
+    </linearGradient>
+    <linearGradient id="parchment" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f0e6d1"/>
+      <stop offset="100%" stop-color="#dbc99e"/>
+    </linearGradient>
+    <linearGradient id="iron" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#585b64"/>
+      <stop offset="50%" stop-color="#191a20"/>
+      <stop offset="100%" stop-color="#666a72"/>
+    </linearGradient>
+    <filter id="halo" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 50px Georgia, 'Times New Roman', serif; fill: #efe4c4; letter-spacing: 2px; }
+      .subtitle { font: 600 20px Georgia, 'Times New Roman', serif; fill: #baa069; letter-spacing: 3px; }
+      .tool { font: 700 28px Georgia, 'Times New Roman', serif; fill: #171514; }
+      .minor { font: 600 16px Georgia, 'Times New Roman', serif; fill: #6c5629; letter-spacing: 1px; }
+      .body { font: 400 17px Georgia, 'Times New Roman', serif; fill: #2f2923; }
+      .centerTitle { font: 700 34px Georgia, 'Times New Roman', serif; fill: #efe4c4; letter-spacing: 1px; }
+      .centerBody { font: 400 18px Georgia, 'Times New Roman', serif; fill: #d6c79d; }
+      .route { font: 600 16px Georgia, 'Times New Roman', serif; fill: #d7bf87; letter-spacing: 2px; }
+      .pathcode { font: 600 16px 'Courier New', monospace; fill: #1d1b1b; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="900" fill="url(#night)"/>
+  <rect x="32" y="32" width="1336" height="836" rx="18" fill="none" stroke="#7a6332" stroke-width="2"/>
+  <rect x="52" y="52" width="1296" height="796" rx="14" fill="none" stroke="#26272d" stroke-width="2"/>
+
+  <text x="700" y="108" text-anchor="middle" class="title">兼容召现图</text>
+  <text x="700" y="144" text-anchor="middle" class="subtitle">THREE ROADS SUMMON THE SAME LAW</text>
+
+  <path d="M300 290 C430 320, 520 350, 620 410" fill="none" stroke="#b29254" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1100 290 C980 320, 900 350, 780 410" fill="none" stroke="#b29254" stroke-width="4" stroke-linecap="round"/>
+  <path d="M700 695 C700 620, 700 550, 700 500" fill="none" stroke="#b29254" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="470" cy="344" r="7" fill="#d8c18a"/>
+  <circle cx="540" cy="375" r="7" fill="#d8c18a"/>
+  <circle cx="930" cy="344" r="7" fill="#d8c18a"/>
+  <circle cx="860" cy="375" r="7" fill="#d8c18a"/>
+  <circle cx="700" cy="620" r="7" fill="#d8c18a"/>
+  <circle cx="700" cy="560" r="7" fill="#d8c18a"/>
+
+  <text x="430" y="255" text-anchor="middle" class="route">FIRST-CLASS PATH</text>
+  <text x="970" y="255" text-anchor="middle" class="route">RULE-SCROLL PATH</text>
+  <text x="700" y="738" text-anchor="middle" class="route">ROOT-CHARTER PATH</text>
+
+  <g>
+    <rect x="126" y="190" width="348" height="190" rx="22" fill="url(#iron)" stroke="#846936" stroke-width="2"/>
+    <rect x="144" y="208" width="312" height="154" rx="14" fill="url(#parchment)"/>
+    <circle cx="300" cy="160" r="44" fill="#17181d" stroke="#8a7041" stroke-width="2"/>
+    <text x="300" y="166" text-anchor="middle" class="subtitle">I</text>
+    <text x="170" y="246" class="tool">Claude Code</text>
+    <text x="170" y="274" class="minor">Native shrine for the codex</text>
+    <text x="170" y="308" class="body">Keep the living skill in the repository and, when</text>
+    <text x="170" y="330" class="body">needed, copy the standalone rite into the local shrine.</text>
+    <text x="170" y="352" class="pathcode">plugins/chivalry/skills/chivalry/</text>
+  </g>
+
+  <g>
+    <rect x="926" y="190" width="348" height="190" rx="22" fill="url(#iron)" stroke="#846936" stroke-width="2"/>
+    <rect x="944" y="208" width="312" height="154" rx="14" fill="url(#parchment)"/>
+    <circle cx="1100" cy="160" r="44" fill="#17181d" stroke="#8a7041" stroke-width="2"/>
+    <text x="1100" y="166" text-anchor="middle" class="subtitle">II</text>
+    <text x="970" y="246" class="tool">Cursor</text>
+    <text x="970" y="274" class="minor">Rule-scroll laid beside the work</text>
+    <text x="970" y="308" class="body">The judgment arrives as a standing rule file placed</text>
+    <text x="970" y="330" class="body">where the host project keeps its governing scrolls.</text>
+    <text x="970" y="352" class="pathcode">.cursor/rules/chivalry.mdc</text>
+  </g>
+
+  <g>
+    <rect x="526" y="580" width="348" height="190" rx="22" fill="url(#iron)" stroke="#846936" stroke-width="2"/>
+    <rect x="544" y="598" width="312" height="154" rx="14" fill="url(#parchment)"/>
+    <circle cx="700" cy="800" r="44" fill="#17181d" stroke="#8a7041" stroke-width="2"/>
+    <text x="700" y="806" text-anchor="middle" class="subtitle">III</text>
+    <text x="570" y="636" class="tool">Codex</text>
+    <text x="570" y="664" class="minor">Root charter bound into the repo</text>
+    <text x="570" y="698" class="body">The law enters by root decree: keep the chivalric</text>
+    <text x="570" y="720" class="body">charter in the repository so the host can read it whole.</text>
+    <text x="570" y="742" class="pathcode">AGENTS.md</text>
+  </g>
+
+  <g filter="url(#halo)">
+    <circle cx="700" cy="448" r="150" fill="#7d6028" opacity="0.18"/>
+  </g>
+  <g>
+    <rect x="525" y="306" width="350" height="250" rx="28" fill="#111216" stroke="#8f7440" stroke-width="2"/>
+    <rect x="553" y="334" width="294" height="194" rx="18" fill="url(#parchment)" opacity="0.98"/>
+    <path d="M700 354 L724 404 L780 412 L738 450 L750 506 L700 478 L650 506 L662 450 L620 412 L676 404 Z" fill="#1a1a1d" stroke="#a8894f" stroke-width="3"/>
+    <circle cx="700" cy="430" r="92" fill="none" stroke="#a8894f" stroke-width="3"/>
+    <text x="700" y="466" text-anchor="middle" class="centerTitle">THE IRON LAW CODEX</text>
+    <text x="700" y="494" text-anchor="middle" class="centerBody">One judgment. Three lawful arrivals.</text>
+    <text x="700" y="518" text-anchor="middle" class="centerBody">Compatibility unchanged; only the ritual differs.</text>
+  </g>
+</svg>

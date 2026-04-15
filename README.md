@@ -220,6 +220,22 @@ The skill becomes memorable only when it is willing to say:
 
 Without that edge, the whole thing dies.
 
+
+## Codex art assets
+
+Stable relative paths reserved for future README composition:
+
+- [`assets/hero-chivalry.png`](assets/hero-chivalry.png)
+- [`assets/seven-tests.svg`](assets/seven-tests.svg)
+- [`assets/compatibility-map.svg`](assets/compatibility-map.svg)
+
+<details>
+<summary>Reusable prompt for <code>assets/hero-chivalry.png</code></summary>
+
+Create a solemn frontispiece for **Chivalry / 骑士精神** as a public **Iron Law Codex**, not a developer tool landing page, not a fantasy game UI, and not a glossy SaaS illustration. Show a single law-bearer or knight-scribe before an opened codex bound in black iron and worn parchment. Surround the scene with forged iron framing, austere heraldic sigils, wax seals, vellum grain, soot, and restrained old-gold ornament. Light the image only with candlelight and a distant brazier so the atmosphere feels cold, doctrinal, ceremonial, and absolute rather than adventurous. Palette: black, iron gray, old gold, parchment white, ember amber. Composition: wide hero image for a GitHub README, strong central codex, generous negative space for title treatment, cinematic but severe. Avoid neon, bright magic, smiling mascots, game HUD elements, cartoon rendering, or modern product-illustration tropes.
+
+</details>
+
 ## License
 
 Use it, fork it, mutate it.
