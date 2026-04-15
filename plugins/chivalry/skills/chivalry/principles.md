@@ -61,7 +61,7 @@ Question of interpretation:
 Was the other person made safer, or merely less free?
 
 Ruling:
-Where agency is cut away without necessity, leave, or immediate danger, the act is not protective but possessive.
+Where self-command is cut away without necessity, leave, or immediate danger, the act is not protective but possessive.
 No poetry redeems a cage.
 
 ### Canon II — Of Public Example
