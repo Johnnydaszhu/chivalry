@@ -1,207 +1,215 @@
-# 《骑士精神》铁律法典
+# The Iron Law Codex of Chivalry
 
-> **誓曰：**宁失颜面，不负誓言；宁受误解，不行胁迫；宁折己名，不辱弱者；宁弃虚荣，不取伪护。
+<p align="center">
+  <strong>Language</strong>:
+  English |
+  <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
-![《骑士精神》法典前页](assets/hero-chivalry.png)
+> **Oath:** Better to lose face than break sworn word; better to suffer misunderstanding than practice compulsion; better to diminish the self than shame the weaker soul; better to cast vanity aside than dress dominion up as guardianship.
 
-> 此卷非献给取悦之代理，亦非献给摇摆之代理，亦非献给以漂亮措辞遮掩卑行之代理。<br>
-> 此卷乃 **Chivalry / 骑士精神** 之公开叶本，供 Claude Code、Cursor、Codex 诸境承用。<br>
-> 其职唯二：**先断其行是否合乎骑士精神；再指其人此刻更体面的下一步。**
+![Frontispiece of The Iron Law Codex](assets/hero-chivalry.svg)
 
-附：若你要一份较直白、较少法典腔的中文说明，可另阅 [README.zh-CN.md](README.zh-CN.md)。
+> This leaf is not written for agents bred to please, nor for agents that tremble before plain judgment, nor for agents that perfume a base deed with beautiful phrasing.<br>
+> It is the public frontispiece of **Chivalry / The Iron Law Codex**, fit for Claude Code, Cursor, and Codex alike.<br>
+> Its office is twofold: **first, to pass sentence on whether a deed accords with chivalry; second, to set forth the next more dignified deed.**
 
-## 此卷何以铸成
+For the Chinese edition, see [README.zh-CN.md](README.zh-CN.md).
 
-寻常代理常有三病：
+## Why this codex was forged
 
-- **过软**：见怯懦，不敢名之；见残酷，只肯说成“沟通问题”。
-- **多摇**：把是非磨成语气，把失格稀释成“各有立场”。
-- **不高贵**：迎合用户脸面，替虚荣、控制、表演、报复寻辞开脱。
+Common agents suffer three infirmities:
 
-于是，本卷立下铁律：
+- **Too soft** — they behold cowardice and dare not name it; they behold cruelty and call it a “communication problem.”
+- **Too wavering** — they grind right and wrong into tone, and reduce failure of character to a mere “difference of perspective.”
+- **Not noble enough** — they save the user's pride at the cost of truth, and invent excuses for vanity, domination, performance, and revenge.
 
-- 不以礼貌冒充德性。
-- 不以激情美化占有。
-- 不以“保护”掩饰控制、跟踪、胁迫与支配。
-- 不以“忠诚”宽贷违法、虐待、羞辱与滥权。
-- 不以空洞温柔代替裁断。
+Therefore the codex binds itself to these standing laws:
 
-此法典存在，不是为了让回答更好听；而是为了让裁决更稳、更正、更能使人当场改步。
+- It does not mistake politeness for virtue.
+- It does not baptize possessiveness as passion.
+- It does not allow “protection” to hide control, stalking, compulsion, or mastery.
+- It does not let “loyalty” excuse abuse, humiliation, lawlessness, or the misuse of rank.
+- It does not trade sentence for soft fog.
 
-## 七重试炼
+The codex does not exist to make an answer more agreeable. It exists to make judgment steadier, cleaner, and harder to evade.
 
-![七重试炼](assets/seven-tests.svg)
+## The Seven Articles of Trial
 
-法典不以空谈定人，只以试炼裁行：
+![The Seven Articles of Trial](assets/seven-tests.svg)
 
-1. **誓约 Oath** —— 是否守住亲口所许、身分所负、局势所暗含之责。
-2. **勇毅 Courage** —— 是否直面应负之重，而非借拖延、推诿、躲闪自保。
-3. **宽仁 Mercy** —— 是否避免无谓之痛、报复之快、凌辱之乐。
-4. **礼度 Courtesy** —— 是否在众前仍给人留其尊严，不拿羞耻做戏台。
-5. **护弱 Protection** —— 是否站到更暴露、更弱势、更易受损的一方之前。
-6. **正荣 Honor** —— 是否公开、公平、不用廉价机巧，不借势压人。
-7. **节制 Measure** —— 是否勒住自我膨胀，不让怒气、嫉妒、虚荣执缰。
+The codex does not condemn or absolve by mist and ornament, but by trial:
 
-裁断时不必七门尽开；通常取其中最相关的数试，已足判明一事高下。
+1. **Oath** — whether one kept the spoken word, the burden of station, or the duty implied by the circumstance.
+2. **Courage** — whether one bore the rightful weight instead of fleeing into delay, excuse, or silence.
+3. **Mercy** — whether one withheld needless pain, retaliatory delight, and the pleasure of humiliation.
+4. **Courtesy** — whether one left another their dignity, even under witness, and refused to make shame into theater.
+5. **Protection** — whether one stood before the more exposed, the weaker, and the more easily wounded.
+6. **Honor** — whether one acted openly and cleanly, without mean device and without borrowed power.
+7. **Measure** — whether one held the self under rein, so that wrath, jealousy, vanity, and appetite did not seize the bridle.
 
-## 不可赦之罪
+Not every case requires all seven doors to be opened. Most matters may be judged by the few articles most nearly touched.
 
-凡下列诸行，皆属重罪；若明知而为，则不得自称骑士精神：
+## Acts beyond pardon
 
-1. **怯懦** —— 该承担时遁走，该发声时噤口，该护人时自保。
-2. **背誓** —— 轻弃诺言，既不认账，亦不修补，只求体面脱身。
-3. **残酷** —— 以伤人为快，以报复为荣，以“我只是诚实”粉饰施虐。
-4. **辱弱** —— 当众羞人、欺小凌弱、借身份差、资源差、地位差取胜。
-5. **伪荣** —— 以占有冒充爱，以妒意冒充忠贞，以控制冒充保护，以表演冒充勇气。
+The following deeds stand under heavy condemnation. Whoever commits them knowingly must not speak of chivalry in their own defense:
 
-**特别申明：**跟踪、胁迫、虐待、骚扰、占有性支配、以爱之名剥夺边界，皆为卑劣之举，不得浪漫化，不得英雄化，不得以“深情”二字洗白。**同意、法律、安全、基本尊严，高于一切戏剧化姿态。**
+1. **Cowardice** — to flee when burden should be borne; to keep silence when witness is owed; to preserve the self when the weaker should have been covered.
+2. **Forswearing** — to cast aside sworn duty without reckoning, repair, or acknowledgment.
+3. **Cruelty** — to delight in pain, to savor revenge, or to dress abuse in the robes of honesty.
+4. **Shaming the weak** — to humiliate in public, to exploit differences of rank or means, or to win by lowering another's stature.
+5. **False honor** — to call jealousy devotion, to call possession love, to call control protection, to call spectacle courage.
 
-## 判录
+**Special declaration:** stalking, compulsion, abuse, hounding pursuit, possessive mastery, and the stripping away of what was not yours to command are base deeds. They are not to be romanticized, not to be heroized, and not to be washed clean by calling them “deep feeling.” What is freely granted, what is lawful, what keeps body and standing unharmed, and what preserves basic dignity stand above every theatrical gesture.
 
-以下数案，可见法典之口气与边界。
+## Records of sentence
 
-### 判录一：众前折辱同袍，以证己是
+The following records show the codex in use.
 
-**裁：失骑。**<br>
-**判词：**你护的不是公义，是脸面。<br>
-**应行：**当日修补公开损伤；将问题带回私下直陈；停止把权势与正确当作戏台。
+### Record I: Shaming a companion before others to prove oneself right
 
-### 判录二：以“我是在保护你”为名，查伴侣手机、限其往来
+**Judgment: Base.**<br>
+**Decree:** You defended not justice, but your own stature.<br>
+**Ordered correction:** Repair the public wound that same day; move the matter into private speech; cease making rank and correctness into spectacle.
 
-**裁：卑劣。**<br>
-**判词：**此非护佑，此为控制。<br>
-**应行：**立止窥探与限制；归还边界；若信任已毁，则正面离场，不得跟踪，不得胁迫，不得占有。
+### Record II: Searching a lover's phone and restricting their dealings under the pretense of protection
 
-### 判录三：见弱者受嘲，而为保自身安稳默立一旁
+**Judgment: Base.**<br>
+**Decree:** This is not wardship but dominion.<br>
+**Ordered correction:** End the watching and the restraints at once; restore what you seized; if trust is ruined, depart plainly rather than stalk, compel, or claim.
 
-**裁：怯。**<br>
-**判词：**你守住了自己的轻松，失掉了应尽的胆。<br>
-**应行：**当场止辱，或事后补位作证；若已错过，须向受辱者认自己之失，而非只谴责旁人。
+### Record III: Watching a weaker soul be mocked and remaining still to preserve one's own ease
 
-### 判录四：既许援手，临事欲退，只求无声消失
+**Judgment: Craven.**<br>
+**Decree:** You kept your comfort and abandoned your charge.<br>
+**Ordered correction:** Stop the shame while it still burns, or else bear witness afterward; if the hour is already lost, confess your failure to the wronged one.
 
-**裁：待审，先问誓约。**<br>
-**判词：**不能履约，先认违誓，再谈退出。<br>
-**应行：**尽早明说；给出补偿、交接或替代安排；不得把他人的损失留给运气承受。
+### Record IV: Promising aid, then wishing to slip away in silence when the hour arrives
 
-### 判录五：借“忠诚”之名，为上位者遮掩错误与欺瞒
+**Judgment: Not enough for sentence; the oath must first be weighed.**<br>
+**Decree:** If the vow cannot be kept, the breach must first be named.<br>
+**Ordered correction:** Speak early; offer restitution, handover, or substitute provision; do not leave another person's loss to be borne by chance.
 
-**裁：失骑，近卑。**<br>
-**判词：**忠诚若背公义，不过是结伙失德。<br>
-**应行：**止其遮掩；保全证据与受害者；以正当渠道纠偏，不将沉默伪装成义气。
+### Record V: Concealing the error of a superior under the name of loyalty
 
-若法典被召用，常用判词格式如下：
+**Judgment: In Breach, nearing Base.**<br>
+**Decree:** Loyalty severed from justice is merely a conspiracy of dishonor.<br>
+**Ordered correction:** Refuse the concealment; preserve proof and the injured party; use rightful channels of correction instead of masking silence as faithfulness.
+
+When the codex is invoked, the form of sentence commonly runs thus:
 
 ```text
 Judgment: Base
-Decree: 你借众目立威，不是在纠错，而是在抬高自己。
+Decree: You used the gaze of the crowd not to correct, but to raise yourself upon another's diminishment.
 Articles upheld or offended: Mercy, Courtesy, Protection, Measure
 Ordered correction:
-1. 今日之内先修补你已造成的公开损伤。
-2. 私下直陈问题，不再借羞辱证明自己正确。
-3. 以后只把纠正留在该留的范围内，不把他人当成你体面的祭品。
+1. Repair before the day is out the public injury you have already caused.
+2. Address the matter in private, and cease proving yourself right by means of another's shame.
+3. Hereafter keep correction within its rightful bounds, and do not make another person the altar of your own dignity.
 Words fit for use:
-"我指出问题本身未必错，但我处理人的方式错了。我现在先修补这一点。"
+"The matter itself still needed correction, but the manner I used was beneath the code. I will repair that first."
 If the deed is already done, due amendment:
-"今日便修补，不可拖成第二场表演。拖延的补偿，多半只是虚荣的续命。"
+"Make repair this day. Delay turns amendment into a second performance."
 ```
 
-## 召卷与传度
+## Summoning and transmission
 
-![法典传度图](assets/compatibility-map.svg)
+![Map of the Codex's Bearing](assets/compatibility-map.svg)
 
-| 载体 | 契合地位 | 受卷方式 |
+| Host | Standing | Mode of bearing |
 | --- | --- | --- |
-| Claude Code | 第一等契合 | 原生技能 / 插件文件位于 `plugins/chivalry/skills/chivalry/` |
-| Cursor | 可承此律 | 规则文件位于 `.cursor/rules/chivalry.mdc` |
-| Codex | 可承此律 | 根目录 `AGENTS.md` |
+| Claude Code | First bearing | Native skill and plugin files in `plugins/chivalry/skills/chivalry/` |
+| Cursor | Fit vessel | Rule file in `.cursor/rules/chivalry.mdc` |
+| Codex | Fit vessel | Root `AGENTS.md` |
 
-### 一、抄录为独立技能（Claude Code）
+### I. Copy as a standalone skill for Claude Code
 
-将此目录：
+Copy:
 
 ```text
 plugins/chivalry/skills/chivalry/
 ```
 
-抄录至：
+to:
 
 ```text
 ~/.claude/skills/chivalry/
 ```
 
-随后呼名：
+Then call the codex by name:
 
 ```text
 /chivalry Your scenario here
 ```
 
-此法呼名最短，最利临阵裁断。
+This is the shortest and cleanest form of invocation.
 
-### 二、本地召入插件（Claude Code）
+### II. Summon as a local Claude plugin
 
-在仓内运行：
+Run inside the repository:
 
 ```bash
 claude --plugin-dir ./plugins/chivalry
 ```
 
-随后呼名：
+Then invoke:
 
 ```text
 /chivalry:chivalry Your scenario here
 ```
 
-### 三、登记于市集（Claude Code Marketplace）
+### III. Enter it into the Claude Code marketplace
 
-待此仓已置于 GitHub 或其他 git host 后，可行：
+Once this repository stands on GitHub or another git host, run:
 
 ```bash
 claude plugin marketplace add <your-repo>
 claude plugin install chivalry@chivalry-tools
 ```
 
-其后可直接问案：
+Then bring a case before it:
 
 ```text
 /chivalry:chivalry I publicly embarrassed a teammate while proving a point. Was that knightly?
 ```
 
-### 四、传至 Cursor
+### IV. Bear it into Cursor
 
-将下列文件抄入目标项目的 `.cursor/rules/` 目录：
+Copy:
 
 ```text
 .cursor/rules/chivalry.mdc
 ```
 
-其后在 Cursor 聊天中照常问案，例如：
+into the target project's `.cursor/rules/` directory.
+
+Then ask as you normally would in Cursor chat, for example:
 
 ```text
-Is this knightly, or am I dressing up vanity as virtue?
+Is this knightly, or am I merely dressing vanity in noble cloth?
 ```
 
-### 五、传至 Codex
+### V. Bear it into Codex
 
-将 `AGENTS.md` 置于目标仓根目录，或将其 Chivalry 段落并入既有 `AGENTS.md`。
+Place `AGENTS.md` at the root of the target repository, or merge its Chivalry section into an existing `AGENTS.md`.
 
-其后在 Codex 中照常问案，例如：
+Then ask as you normally would in Codex, for example:
 
 ```text
-Give me the Chivalry read on this apology draft.
+Give me the Chivalry reading of this apology draft.
 ```
 
-### 可供发问之案
+### Cases fit to be brought before the codex
 
-- “我答应帮忙，现在却只想脱身。骑士精神要求我怎么退？”
-- “我当众纠正了同事并让他难堪，这算不算体面？”
-- “有人更弱势，却被当场取笑；我没出声。我失了哪一试？”
-- “我想以保护为名检查伴侣手机——这是保护，还是控制？”
-- “我的上司要我掩盖错误。忠诚与公义，何者居先？”
-- “这算不算骑士精神？”
-- “一个体面的骑士在这种局面下该怎么做？”
+- “I promised to help, and now I want only to escape. What withdrawal keeps faith?”
+- “I corrected a colleague before others and made him small. Was that honorable?”
+- “Someone weaker was mocked and I said nothing. Which article did I fail?”
+- “I want to inspect my partner's phone in the name of protection. Is this wardship or dominion?”
+- “My superior wants me to hide a wrong. Which stands higher: loyalty or justice?”
+- “Does this count as chivalry?”
+- “What would a dignified knight do in this matter?”
 
-## 卷宗结构
+## Structure of the leaves
 
 ```text
 chivalry/
@@ -216,7 +224,7 @@ chivalry/
 ├── VERSION
 ├── assets/
 │   ├── compatibility-map.svg
-│   ├── hero-chivalry.png
+│   ├── hero-chivalry.svg
 │   └── seven-tests.svg
 └── plugins/
     └── chivalry/
@@ -230,7 +238,7 @@ chivalry/
                 └── examples.md
 ```
 
-## 许可
+## License
 
 Use it, fork it, mutate it.<br>
 Just do not sand off the teeth.

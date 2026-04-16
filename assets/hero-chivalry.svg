@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">The Iron Law Codex</title>
+  <desc id="desc">A minimal heraldic frontispiece for the Chivalry codex.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4eee2"/>
+      <stop offset="100%" stop-color="#e6dcc8"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b3b3b"/>
+      <stop offset="100%" stop-color="#171717"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="640" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="568" rx="6" fill="none" stroke="#181818" stroke-width="3"/>
+  <rect x="56" y="56" width="1088" height="528" rx="4" fill="none" stroke="#8f7440" stroke-width="2"/>
+
+  <line x1="170" y1="128" x2="470" y2="128" stroke="#8f7440" stroke-width="2"/>
+  <line x1="730" y1="128" x2="1030" y2="128" stroke="#8f7440" stroke-width="2"/>
+  <line x1="170" y1="512" x2="470" y2="512" stroke="#8f7440" stroke-width="2"/>
+  <line x1="730" y1="512" x2="1030" y2="512" stroke="#8f7440" stroke-width="2"/>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="6" fill="#6d5526">THE IRON LAW CODEX</text>
+
+  <circle cx="600" cy="314" r="120" fill="url(#seal)" stroke="#8f7440" stroke-width="4"/>
+  <circle cx="600" cy="314" r="88" fill="none" stroke="#b69558" stroke-width="2"/>
+  <circle cx="600" cy="314" r="56" fill="none" stroke="#b69558" stroke-width="2"/>
+
+  <path d="M600 222 L620 254 L600 438 L580 254 Z" fill="#d9c28b" stroke="#d9c28b" stroke-width="2"/>
+  <path d="M566 260 Q600 235 634 260" fill="none" stroke="#d9c28b" stroke-width="3"/>
+  <path d="M560 348 Q600 374 640 348" fill="none" stroke="#d9c28b" stroke-width="3"/>
+  <path d="M575 278 L625 278" stroke="#d9c28b" stroke-width="3"/>
+  <path d="M575 332 L625 332" stroke="#d9c28b" stroke-width="3"/>
+
+  <text x="600" y="486" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" letter-spacing="4" fill="#181818">CHIVALRY</text>
+  <text x="600" y="526" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="5" fill="#6d5526">OF USE IN CLAUDE CODE, CURSOR, AND CODEX</text>
+</svg>
