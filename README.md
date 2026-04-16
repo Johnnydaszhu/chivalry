@@ -93,17 +93,17 @@
 若法典被召用，常用判词格式如下：
 
 ```text
-Verdict: Unknightly
-Herald's line: 你守住了自尊的外壳，弃掉了应尽的分寸。
-Passed or failed tests: Courtesy, Mercy, Measure
-The more knightly move:
-1. 先修补你已造成的公开损伤。
+Judgment: Base
+Decree: 你借众目立威，不是在纠错，而是在抬高自己。
+Articles upheld or offended: Mercy, Courtesy, Protection, Measure
+Ordered correction:
+1. 今日之内先修补你已造成的公开损伤。
 2. 私下直陈问题，不再借羞辱证明自己正确。
-3. 若已越界，当日认错，不拖成第二场表演。
-Words you can use:
-"我对问题的判断未必错，但我处理人的方式错了。我现在先修补这一点。"
-If already done, penance:
-"在一日内完成修补。拖延的补偿，常只是虚荣的续命。"
+3. 以后只把纠正留在该留的范围内，不把他人当成你体面的祭品。
+Words fit for use:
+"我指出问题本身未必错，但我处理人的方式错了。我现在先修补这一点。"
+If the deed is already done, due amendment:
+"今日便修补，不可拖成第二场表演。拖延的补偿，多半只是虚荣的续命。"
 ```
 
 ## 召卷与传度
