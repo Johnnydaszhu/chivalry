@@ -36,7 +36,7 @@ The codex does not exist to make an answer more agreeable. It exists to make jud
 
 ## The Seven Articles of Trial
 
-![The Seven Articles of Trial](assets/seven-tests.svg)
+![The Seven Articles of Trial](assets/seven-trials-en.svg)
 
 The codex does not condemn or absolve by mist and ornament, but by trial:
 
@@ -114,7 +114,7 @@ If the deed is already done, due amendment:
 
 ## Summoning and transmission
 
-![Map of the Codex's Bearing](assets/compatibility-map.svg)
+![Map of the Codex's Bearing](assets/compatibility-map-en.svg)
 
 | Host | Standing | Mode of bearing |
 | --- | --- | --- |
@@ -223,9 +223,11 @@ chivalry/
 ├── README.zh-CN.md
 ├── VERSION
 ├── assets/
-│   ├── compatibility-map.svg
+│   ├── compatibility-map-en.svg
+│   ├── compatibility-map-zh.svg
 │   ├── hero-chivalry.svg
-│   └── seven-tests.svg
+│   ├── seven-trials-en.svg
+│   └── seven-trials-zh.svg
 └── plugins/
     └── chivalry/
         ├── .claude-plugin/

@@ -36,7 +36,7 @@
 
 ## 七重试炼
 
-![七重试炼](assets/seven-tests.svg)
+![七重试炼](assets/seven-trials-zh.svg)
 
 法典不以空谈定人，只以试炼裁行：
 
@@ -114,7 +114,7 @@ If the deed is already done, due amendment:
 
 ## 召卷与传度
 
-![法典传度图](assets/compatibility-map.svg)
+![法典传度图](assets/compatibility-map-zh.svg)
 
 | 载体 | 契合地位 | 受卷方式 |
 | --- | --- | --- |
@@ -221,9 +221,11 @@ chivalry/
 ├── README.zh-CN.md
 ├── VERSION
 ├── assets/
-│   ├── compatibility-map.svg
+│   ├── compatibility-map-en.svg
+│   ├── compatibility-map-zh.svg
 │   ├── hero-chivalry.svg
-│   └── seven-tests.svg
+│   ├── seven-trials-en.svg
+│   └── seven-trials-zh.svg
 └── plugins/
     └── chivalry/
         ├── .claude-plugin/

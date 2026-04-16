@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Bearers</title>
+  <desc id="desc">A simplified English compatibility chart.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f3ecdf"/>
+      <stop offset="100%" stop-color="#e4d7bf"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#343434"/>
+      <stop offset="100%" stop-color="#171717"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 30px Georgia, 'Times New Roman', serif; fill: #181818; letter-spacing: 2px; }
+      .tool { font: 700 28px Georgia, 'Times New Roman', serif; fill: #181818; }
+      .path { font: 600 18px 'Courier New', monospace; fill: #181818; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <rect x="120" y="120" width="960" height="960" rx="8" fill="none" stroke="#181818" stroke-width="3"/>
+  <rect x="150" y="150" width="900" height="900" rx="6" fill="none" stroke="#9b7b45" stroke-width="2"/>
+
+  <circle cx="600" cy="222" r="36" fill="url(#seal)" stroke="#9b7b45" stroke-width="3"/>
+  <path d="M600 194 L611 212 L600 266 L589 212 Z" fill="#d9bf86"/>
+  <text x="600" y="302" text-anchor="middle" class="title">CODEX BEARERS</text>
+
+  <g>
+    <rect x="260" y="360" width="680" height="120" rx="10" fill="#f8f2e6" stroke="#9b7b45" stroke-width="2"/>
+    <text x="600" y="408" text-anchor="middle" class="tool">Claude Code</text>
+    <text x="600" y="446" text-anchor="middle" class="path">plugins/chivalry/</text>
+  </g>
+  <g>
+    <rect x="260" y="530" width="680" height="120" rx="10" fill="#f8f2e6" stroke="#9b7b45" stroke-width="2"/>
+    <text x="600" y="578" text-anchor="middle" class="tool">Cursor</text>
+    <text x="600" y="616" text-anchor="middle" class="path">.cursor/rules/</text>
+  </g>
+  <g>
+    <rect x="260" y="700" width="680" height="120" rx="10" fill="#f8f2e6" stroke="#9b7b45" stroke-width="2"/>
+    <text x="600" y="748" text-anchor="middle" class="tool">Codex</text>
+    <text x="600" y="786" text-anchor="middle" class="path">AGENTS.md</text>
+  </g>
+</svg>
